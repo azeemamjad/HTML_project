@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="1052" viewBox="0 0 1440 1052">
+  <defs>
+    <clipPath id="clip-Add_to_Cart_1">
+      <rect width="1440" height="1052"/>
+    </clipPath>
+  </defs>
+  <g id="Add_to_Cart_1" data-name="Add to Cart – 1" clip-path="url(#clip-Add_to_Cart_1)">
+    <rect width="1440" height="1052" fill="#fff"/>
+    <g id="Group_18" data-name="Group 18" transform="translate(0 -11)">
+      <g id="Group_19" data-name="Group 19" transform="translate(0 11)">
+        <path id="Background" d="M0,0H1440V1047.788H0Z" fill="#f6f5f5"/>
+      </g>
+      <path id="Rectangle_1" data-name="Rectangle 1" d="M0,0H937V986.788H0Z" transform="translate(503 121)" fill="#3fc66e" opacity="0.1"/>
+      <g id="Ellipse" transform="translate(335 162.634)">
+        <circle id="Ellipse_3" data-name="Ellipse 3" cx="424.5" cy="424.5" r="424.5" transform="translate(424)" fill="#fff"/>
+        <circle id="Ellipse_3_copy" data-name="Ellipse 3 copy" cx="297" cy="297" r="297" transform="translate(551 122)" fill="#f6f5f5"/>
+        <g id="Ellipse_4_copy_3" data-name="Ellipse 4 copy 3" transform="translate(0 659)" fill="none" stroke="#739f74" stroke-linejoin="round" stroke-width="2">
+          <circle cx="165.5" cy="165.5" r="165.5" stroke="none"/>
+          <circle cx="165.5" cy="165.5" r="164.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
